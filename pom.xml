@@ -5,7 +5,7 @@
 
     <groupId>com.zulin</groupId>
     <artifactId>k8s-tomcat-hello</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.2</version>
     <packaging>jar</packaging>
 
     <name>k8s-tomcat-hello</name>
